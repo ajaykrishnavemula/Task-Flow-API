@@ -26,4 +26,3 @@ declare module 'marked' {
   export { marked };
 }
 
-// Made with Bob

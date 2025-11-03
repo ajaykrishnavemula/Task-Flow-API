@@ -61,4 +61,3 @@ export interface ITeam extends Document {
   declineInvitation(token: string): Promise<void>;
 }
 
-// Made with Bob

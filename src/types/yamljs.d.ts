@@ -15,4 +15,3 @@ declare module 'yamljs' {
   export = YAML;
 }
 
-// Made with Bob

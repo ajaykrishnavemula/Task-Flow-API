@@ -71,4 +71,3 @@ export const extractSummary = (markdown: string, length = 100): string => {
   return text.substring(0, length) + '...';
 };
 
-// Made with Bob

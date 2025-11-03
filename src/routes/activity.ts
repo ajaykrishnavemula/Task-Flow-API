@@ -36,4 +36,3 @@ router.patch('/preferences', updateNotificationPreferences);
 
 export default router;
 
-// Made with Bob

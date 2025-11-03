@@ -37,4 +37,3 @@ declare module 'nodemailer' {
   export { createTransport, Transport, MailOptions, TransportOptions };
 }
 
-// Made with Bob

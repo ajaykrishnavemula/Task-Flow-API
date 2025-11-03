@@ -47,4 +47,3 @@ export class ConflictError extends CustomAPIError {
 
 export default CustomAPIError;
 
-// Made with Bob

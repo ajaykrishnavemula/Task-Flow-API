@@ -140,4 +140,3 @@ export interface IUser extends Document {
   markNotificationsAsRead(): Promise<void>;
 }
 
-// Made with Bob

@@ -55,4 +55,3 @@ declare module 'sanitize-html' {
   export = sanitize;
 }
 
-// Made with Bob

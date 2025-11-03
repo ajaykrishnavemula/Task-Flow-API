@@ -193,4 +193,3 @@ const NotificationPreference = mongoose.model<INotificationPreference>('Notifica
 
 export { Activity, Notification, NotificationPreference };
 
-// Made with Bob

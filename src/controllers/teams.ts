@@ -385,4 +385,3 @@ export const declineInvitation = asyncWrapper(async (req: Request, res: Response
   });
 });
 
-// Made with Bob

@@ -49,4 +49,3 @@ export const logger = winston.createLogger({
   transports,
 });
 
-// Made with Bob

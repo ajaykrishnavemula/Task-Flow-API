@@ -589,4 +589,3 @@ const calculateNextOccurrence = (task: any) => {
   return nextDate;
 };
 
-// Made with Bob

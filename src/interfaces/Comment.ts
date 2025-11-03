@@ -44,4 +44,3 @@ export interface ICommentReaction extends Document {
   createdAt: Date;
 }
 
-// Made with Bob

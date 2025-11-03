@@ -34,4 +34,3 @@ router.delete('/deactivate', deactivateAccount);
 
 export default router;
 
-// Made with Bob

@@ -95,4 +95,3 @@ router.post('/:id/invite', authenticateUser, inviteTeamMember);
 
 export default router;
 
-// Made with Bob

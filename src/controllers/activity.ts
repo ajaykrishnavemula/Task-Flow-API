@@ -334,4 +334,3 @@ export const getUnreadCount = asyncWrapper(async (req: Request, res: Response) =
   });
 });
 
-// Made with Bob

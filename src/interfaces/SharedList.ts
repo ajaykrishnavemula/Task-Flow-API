@@ -63,4 +63,3 @@ export interface ISharedList extends Document {
   revokePublicAccess(): void;
 }
 
-// Made with Bob

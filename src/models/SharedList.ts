@@ -312,4 +312,3 @@ SharedListSchema.methods.revokePublicAccess = function (): void {
 
 export default mongoose.model<ISharedList>('SharedList', SharedListSchema);
 
-// Made with Bob

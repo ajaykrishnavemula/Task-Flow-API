@@ -218,4 +218,3 @@ UserSchema.methods.generatePasswordResetToken = function (): string {
 
 export default mongoose.model<IUser>('User', UserSchema);
 
-// Made with Bob

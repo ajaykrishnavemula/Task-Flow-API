@@ -139,4 +139,3 @@ const CommentReaction = mongoose.model('CommentReaction', CommentReactionSchema)
 
 export { Comment, CommentReaction };
 
-// Made with Bob

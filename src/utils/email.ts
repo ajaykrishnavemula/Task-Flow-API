@@ -100,4 +100,3 @@ export const sendPasswordResetEmail = async (
   await sendEmail({ to: email, subject, html });
 };
 
-// Made with Bob

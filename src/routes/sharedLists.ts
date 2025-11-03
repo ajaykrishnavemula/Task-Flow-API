@@ -52,4 +52,3 @@ router.post('/access/:code', accessByCode);
 
 export default router;
 
-// Made with Bob

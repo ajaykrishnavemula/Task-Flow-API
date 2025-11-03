@@ -52,4 +52,3 @@ declare module 'express-fileupload' {
   export = fileUpload;
 }
 
-// Made with Bob

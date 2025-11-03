@@ -114,4 +114,3 @@ export interface ITask extends Document {
   verifiedAt?: Date; // When the task was verified
 }
 
-// Made with Bob

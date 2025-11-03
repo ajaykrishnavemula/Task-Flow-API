@@ -60,4 +60,3 @@ export const adminOnly = async (
 
 export default authMiddleware;
 
-// Made with Bob

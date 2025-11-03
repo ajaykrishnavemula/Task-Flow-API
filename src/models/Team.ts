@@ -302,4 +302,3 @@ TeamSchema.methods.declineInvitation = async function (
 
 export default mongoose.model<ITeam>('Team', TeamSchema);
 
-// Made with Bob

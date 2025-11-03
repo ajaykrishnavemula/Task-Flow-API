@@ -36,4 +36,3 @@ router.post('/reports/:id/generate', generateReport);
 
 export default router;
 
-// Made with Bob
