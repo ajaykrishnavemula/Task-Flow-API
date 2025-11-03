@@ -1,7 +1,7 @@
 {
-  "name": "taskflow-api",
+  "name": "task-flow-api",
   "version": "1.0.0",
-  "description": "TaskFlowAPI - Advanced task management application with TypeScript",
+  "description": "Task-Flow-API - Advanced task management application with TypeScript",
   "main": "dist/app.js",
   "scripts": {
     "build": "tsc",
